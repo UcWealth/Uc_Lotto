@@ -1,0 +1,11 @@
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.exe
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.deps.json
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.runtimeconfig.json
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.runtimeconfig.dev.json
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.dll
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\bin\Debug\netcoreapp3.1\UcWealth Lotto.pdb
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\obj\Debug\netcoreapp3.1\UcWealth Lotto.csprojAssemblyReference.cache
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\obj\Debug\netcoreapp3.1\UcWealth Lotto.AssemblyInfoInputs.cache
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\obj\Debug\netcoreapp3.1\UcWealth Lotto.AssemblyInfo.cs
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\obj\Debug\netcoreapp3.1\UcWealth Lotto.dll
+C:\Users\ucwealth\Desktop\START-NG\C-SHARP\Task3\UcWealth Lotto\obj\Debug\netcoreapp3.1\UcWealth Lotto.pdb
